@@ -1,0 +1,6 @@
+{
+  "name": "CarSole",
+  "description": "Sleek automotive car dashboard with drive mode, navigation radar, music hub, weather, and AI repair diagnosis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
